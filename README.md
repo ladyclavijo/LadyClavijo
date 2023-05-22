@@ -1,8 +1,7 @@
-<h1 align="center">Buenas, buenaaas... me dicen Lay!</h1>
-<h3 align="center">Bienvenidos! 🚀</h3>
+<h1 align="center">Buenas, buenaaas... me dicen Lay! :))</h1>
 
 <p>
-🔭 Un poquito de mi: Soy estudiante de programación e Ingeniería Aeroespacial, emprendedora y fotógrafa en constante proceso de evolución, autodisciplinada, ambiciosa y naturalmente con habilidades de liderazgo.
+🚀 Un poquito de mi: Soy estudiante de programación e Ingeniería Aeroespacial, emprendedora en constante proceso de evolución, autodisciplinada, ambiciosa y naturalmente con habilidades de liderazgo.
 </p> <br>
 
 
@@ -11,7 +10,7 @@
 
 📫 Contáctame por aquí 👉 layclavijo10@gmail.com 👈 No te vas a arrepentir! <br>
 
-<p>⚡ Datos extras: Amante del café, gym y fotógrafa innata. </p>
+<p>⚡ Datos extras: amante del café, gym y fotógrafa innata. </p>
 
 <h3 align="left">Conectamos? 💫</h3>
 <p align="left">
