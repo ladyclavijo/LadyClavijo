@@ -1,7 +1,7 @@
 <h1 align="center">Buenas, buenaaas... me dicen Lay! :))</h1>
 
 <p>
-🚀 Un poquito de mi: Soy estudiante de programación e Ingeniería Aeroespacial, emprendedora en constante proceso de evolución, autodisciplinada, ambiciosa y naturalmente con habilidades de liderazgo.
+🚀 Un poquito de mi: Soy estudiante de programación e Ingeniería Aeroespacial, emprendedora en constante proceso de evolución, disciplinada, ambiciosa y naturalmente con habilidades de liderazgo.
 </p> <br>
 
 
