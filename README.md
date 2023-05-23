@@ -13,7 +13,7 @@
 <h2>⚡ Datos extras</h2>
 <p>Amante del café, gym y fotógrafa innata. </p>
 
-<h2>💫 Conectamos?</h2>
+<h2>💫 ¿Conectamos?</h2>
 <p>
 <a href="https://linkedin.com/in/pepis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pepis" height="30" width="40" /></a>
 </p>
