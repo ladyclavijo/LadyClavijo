@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=dark" alt="lay" /></p>
 ---
-(https://visitcount.itsvg.in/api?id=ladyclavijo&icon=0&color=0)](https://visitcount.itsvg.in)
+<div>  src="https://visitcount.itsvg.in/api?id=ladyclavijo&icon=0&color=0)](https://visitcount.itsvg.in" </div>
