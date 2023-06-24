@@ -24,6 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladyclavijo&show_icons=true&theme=dark&title_color=828282&text_color=aaaaaa&hide_border=true&locale=en" alt="lay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=dark" alt="lay" /></p>
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ladyclavijo&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Alex-ty10&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ladyclavijo&icon=0&color=0)](https://visitcount.itsvg.in)
