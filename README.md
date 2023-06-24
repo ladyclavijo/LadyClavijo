@@ -23,8 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladyclavijo&show_icons=true&theme=dark&title_color=828282&text_color=aaaaaa&hide_border=true&locale=en" alt="lay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=dark" alt="lay" /></p>
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=dark" alt="lay" /></p> <br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ladyclavijo&&style=flat-square" align="center" />
 </div>  
