@@ -4,7 +4,7 @@
 <p>Soy estudiante de programación e Ingeniería Aeroespacial, emprendedora en constante proceso de evolución, disciplinada, ambiciosa y naturalmente con habilidades de liderazgo. </p>
 
 <h2> 👩‍💻 ¿A qué me dedico? </h2>
-<p>Actualmente estoy haciendo énfasis en Backend aprendiendo Python. <br> Reciéntemente culminé el bootcamp de Henry como programadora Full Stack, aprendiendo a desarrollar tecnologías que me permiten adentrarme cada vez más en el mundo IT que desde siempre fue uno de mis grandes intereses.
+<p>Actualmente estoy haciendo énfasis en Backend aprendiendo Python. 🐍 <br> Reciéntemente culminé el bootcamp de Henry como programadora Full Stack, aprendiendo a desarrollar tecnologías que me permiten adentrarme cada vez más en el mundo IT que desde siempre fue uno de mis grandes intereses.
 </p>
 
 <h2>⚡ Datos extras.</h2>
