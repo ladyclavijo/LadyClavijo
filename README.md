@@ -50,9 +50,11 @@
 
 <h2>📊 Git Status.</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladyclavijo&show_icons=true&theme=dark&title_color=828282&text_color=aaaaaa&hide_border=true&locale=en" alt="lay" /></p>
+![](https://github-readme-stats.vercel.app/api?username=ladyclavijo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ladyclavijo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=dark" alt="lay" /></p> <br>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ladyclavijo&&style=flat-square" align="center" />
 </div>  
