@@ -47,6 +47,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
+<h2>📊 Git Status.</h2>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladyclavijo&show_icons=true&theme=dark&title_color=828282&text_color=aaaaaa&hide_border=true&locale=en" alt="lay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladyclavijo&theme=dark" alt="lay" /></p> <br>
