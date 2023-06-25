@@ -11,7 +11,10 @@
 <p>Amante del café, gym y fotógrafa innata. </p>
 
 <h2>📫 Contáctame por aquí. </h2>
-<p>layclavijo10@gmail.com</p>
+<a href="mailto:layclavijo10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 <h2>💫 ¿Conectamos?</h2>
 
