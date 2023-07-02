@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, heeeey... they call me Lay! :))</h1>
+<h1 align="center"> Hey, heeey... they call me Lay! :))</h1>
 
 <h2>🚀 A little bit about me.</h2>
 <p>I'm a Programming and Aerospace Engineering student, an entrepreneur in a constant process of evolution, disciplined, ambitious and naturally with leadership skills. </p>
