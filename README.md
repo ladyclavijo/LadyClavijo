@@ -17,7 +17,7 @@
 
 
 <h2>💫 ¿Do we connect?</h2>
-<a href="URL_DE_TU_PERFIL_DE_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/ladyclavijo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
