@@ -1,7 +1,7 @@
 <h1 align="center"> Hey, heeeey... they call me Lay! :))</h1>
 
 <h2>🚀 A little bit about me.</h2>
-<p>I'm a Programming and Aerospace Engineering student, an entrepreneur in a constant process of evolution, disciplined, ambitious and naturally with leadership skills. </p>
+<p>I'm a Full Stack Developer with additional training in Aerospace Engineering, an entrepreneur in a constant process of evolution, disciplined, ambitious and naturally with leadership skills. </p>
 
 <h2> 👩‍💻 ¿What am I currently doing? </h2>
 <p> I'm emphasizing Backend studying Python. 🐍 I recently completed Henry's bootcamp as a Full Stack programmer, learning to develop technologies that allow me to delve deeper into the IT world, which has always been one of my great interests.
